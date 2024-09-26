@@ -1,0 +1,8 @@
+transformerse
+torch
+torchvision
+sentencepiece==0.1.99
+accelerate>=0.26.0
+datasets>=3.0.0
+gradio>=4.44.0
+tokenizers>=0.13.3

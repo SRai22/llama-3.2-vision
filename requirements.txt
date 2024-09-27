@@ -1,4 +1,4 @@
-transformerse
+transformers
 torch
 torchvision
 sentencepiece==0.1.99
